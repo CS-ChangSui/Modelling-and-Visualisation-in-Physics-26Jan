@@ -91,13 +91,13 @@ conda install numpy matplotlib pandas numba pillow
    Optimized simulation (~2 minutes default runtime)
 
 2. **Simulation (Pure Python)**  
-   Non-optimized version (~30 minutes default runtime)
+   Non-optimized version (several hours default runtime)
 
 3. **Animation with Numba JIT**  
    Optional standalone animation generation
 
 4. **Animation (Pure Python)**  
-   Optional standalone animation generation
+   Optional standalone animation generation (warning: may take longer than expected)
 
 ---
 
